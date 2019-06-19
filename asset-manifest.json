@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/website/static/css/main.6c822acf.chunk.css",
+    "main.js": "/website/static/js/main.ab859038.chunk.js",
+    "main.js.map": "/website/static/js/main.ab859038.chunk.js.map",
+    "runtime~main.js": "/website/static/js/runtime~main.de462641.js",
+    "runtime~main.js.map": "/website/static/js/runtime~main.de462641.js.map",
+    "static/css/2.33bbdc9a.chunk.css": "/website/static/css/2.33bbdc9a.chunk.css",
+    "static/js/2.2534e4f7.chunk.js": "/website/static/js/2.2534e4f7.chunk.js",
+    "static/js/2.2534e4f7.chunk.js.map": "/website/static/js/2.2534e4f7.chunk.js.map",
+    "index.html": "/website/index.html",
+    "precache-manifest.a1b472550f6b98cb1eb6fe5381255ad6.js": "/website/precache-manifest.a1b472550f6b98cb1eb6fe5381255ad6.js",
+    "service-worker.js": "/website/service-worker.js",
+    "static/css/2.33bbdc9a.chunk.css.map": "/website/static/css/2.33bbdc9a.chunk.css.map",
+    "static/css/main.6c822acf.chunk.css.map": "/website/static/css/main.6c822acf.chunk.css.map",
+    "static/media/tee.jpg": "/website/static/media/tee.f3b344ae.jpg"
+  }
+}
